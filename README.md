@@ -35,5 +35,5 @@ what about fetching?
 - git merge newbranchname
 - git push origin master
 
-#documentation source 
+### documentation source 
 https://git-scm.com/
