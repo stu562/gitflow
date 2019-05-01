@@ -28,5 +28,12 @@ what about fetching?
 ## Remote 
 - git remote -v: shows any origin and remote repos 
 
+
+## Merge
+- git checkout master
+- git pull origin master 
+- git merge newbranchname
+- git push origin master
+
 #documentation source 
 https://git-scm.com/
