@@ -1,6 +1,6 @@
 # gitflow
 
-##Commands that are useful:
+## Commands that are useful:
 - git status : checks if there are newly created changes and commits ready to be staged for remote repository
 - git add "name of file(withoutquotes)"
 - git commit -m "my meaningful commit message"
@@ -9,18 +9,18 @@
 - git push origin "name of my branch"
 
 
-##branches
+## Branches
 - git checkout "name of branch"
 - git branch -a 
 - git checkout -b "yourbranchname" :creates a branch switch to that newly created branch 
 
-##rebase and merging 
+## Rebase and merging 
 what about fetching?
 - git rebase
 - git merge
 
 
-#stash 
+## Stash 
 - git stash : save your current changes and stows it off to the side temporary.
 - git stash apply: apply stash to current branch 
 
