@@ -1,5 +1,8 @@
 # gitflow
 
+contents
+## Stash 
+
 ## Commands that are useful:
 - git status : checks if there are newly created changes and commits ready to be staged for remote repository
 - git add "name of file(withoutquotes)"
