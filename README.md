@@ -25,5 +25,8 @@ what about fetching?
 - git stash apply: apply stash to current branch 
 
 
+## Remote 
+- git remote -v: shows any origin and remote repos 
+
 #documentation source 
 https://git-scm.com/
