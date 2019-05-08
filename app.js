@@ -1,4 +1,4 @@
 console.log("hello world");
 function newFunctionBranch(){
-  console.log('hey im from new branch')
+  console.log('i made this commit from master')
 }
