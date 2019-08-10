@@ -4,4 +4,5 @@ function newFunctionBranch(){
   console.log('this is getting messy, shall we rebase?');
   console.log('lets make more commits first');
   console.log('i made this change in my repo lets see git pull --rebase');
+  console.log('this is new brnach')
 }
