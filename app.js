@@ -5,3 +5,5 @@ function newFunctionBranch(){
   console.log('lets make more commits first');
   console.log('i made this change in my repo lets see git pull --rebase');
 }
+
+console.log("for sure");
